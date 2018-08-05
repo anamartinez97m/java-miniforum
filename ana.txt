@@ -1,0 +1,2 @@
+Autor: ana, Titulo: Primer mensaje, Cuerpo: Esto es el primer mensaje del hilo 1
+Autor: ana, Titulo: Mensaje 2, Cuerpo: Esto sigue siendo una prueba

@@ -1,0 +1,29 @@
+(Para ver los mensajes de un hilo, hacer doble click sobre este)
+
+Foreros:
+Nombre de Usuario: fran
+Contraseña: 1234
+
+Nombre de Usuario: paco
+Contraseña: holi
+
+Nombre de Usuario: rafa
+Contraseña: 1998
+
+-------------------------------------
+
+Moderadores:
+Nombre de Usuario: ana
+Contraseña: 4567
+
+Nombre de Usuario: judith
+Contraseña: 1995
+
+Nombre de Usuario: felipe
+Contraseña: 1960
+
+-------------------------------------
+
+Administradores:
+Nombre de Usuario: pluf
+Contraseña: 7890
